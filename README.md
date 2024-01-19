@@ -5,7 +5,7 @@
 
 ✈ Aeronautical Engineer making his way into the world of technology.</br>
 🌱 Currently I'm learning Frontend with React, Tailwind and Astro and Backend with NodeJS.</br>
-💻 Check my first project [![link](https://dulcet-pasca-a3be96.netlify.app/)]</br>
+💻 Check my [first project](https://dulcet-pasca-a3be96.netlify.app/)]</br>
 
 
 Here are some ideas to get you started:
